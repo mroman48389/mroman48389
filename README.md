@@ -1,127 +1,115 @@
 # Hello, I'm Mark Roman
 
-	Software engineer with 15+ years of experience building software that has helped 
-	inform healthcare policy worldwide and improve health outcomes. Experienced with 
-	frontend, backend, and desktop technologies. Always eager to learn and build 
-	quality products that improve lives.
+> Software engineer with 15+ years of experience building software that has helped inform healthcare policy worldwide and improve health outcomes. Experienced with frontend, backend, and desktop technologies. Always eager to learn and build quality products that improve lives.
 
 ## Current Projects (2025)
 
-	**Tea Tapestry** 
+>**Tea Tapestry** 
 
-		A full-stack web app that helps people learn about and explore the world of tea. 
+>	A full-stack web app that helps people learn about and explore the world of tea. 
 
-		My current stack includes:
+>	My current stack includes:
 
-			Frontend:	-React, TypeScript, Tailwind CSS
-			            -Redux, React Router, Framer Motion, shadcn 
-						-ESLint, Jest, React Testing Library
+>		Frontend:	
+>			-React, TypeScript, Tailwind CSS
+>			-Redux, React Router, Framer Motion, shadcn 
+>			-ESLint, Jest, React Testing Library
 						
-			Backend:	-FastAPI, Python, RESTful API design
-			            -PostgreSQL, SQLAlchemy, Pandas, OpenAI
-						-Ruff, Pytest
+>		Backend:	
+>			-FastAPI, Python, RESTful API design
+>			-PostgreSQL, SQLAlchemy, Pandas, OpenAI
+>			-Ruff, Pytest
 	
-		  * This stack was chosen to practice modern web development technologies valued
-		  * in today's job market at a minimum cost. A mix of familiar and new 
-		  * technologies both hone my existing skills and equip me with new ones.  
+>	* This stack was chosen to practice modern web development technologies valued
+>	* in today's job market at a minimum cost. A mix of familiar and new 
+>	* technologies both hone my existing skills and equip me with new ones.  
 	
 ## Past Projects, Personal
 
-	**Portfolio Site** 
+>**Portfolio Site** 
 
-		A landing site from which my other projects can be accessed. Written in pure 
-		HTML and CSS and designed to be accessible and responsive.
+>	A landing site from which my other projects can be accessed. Written in pure HTML and CSS and designed to be accessible and responsive.
 
-		URL: https://mark-roman-portfolio.netlify.app/
+>	URL: https://mark-roman-portfolio.netlify.app/
 
 ## Past Projects, Professional (Dec 2008 - Mar 2025)
 
-	As a dedicated and hard-working developer, the vast body of my experience is in these projects. 
-	My contribution graph from Dec 2008 to March 2025 would reflect these projects, but I 
-	no longer have access to their repositories. Listed in approximately reverse order of when I 
-	began work on them.
+> As a dedicated and hard-working developer, the vast body of my experience is in these projects. My contribution graph from Dec 2008 to March 2025 would reflect these projects, but I no longer have access to their repositories. Listed in approximately reverse order of when I began work on them.
 
-	**Integrated Health Tool**
+>	**Integrated Health Tool**
 
-		Large and complex web app for modeling diseases and their costs.
+>		Large and complex web app for modeling diseases and their costs.
 
-		URL: https://beta.integratedhealthtool.org/
+>		URL: https://beta.integratedhealthtool.org/
 
-		Role: Backend Developer, Tech Lead
+>		Role: Backend Developer, Tech Lead
 
-		Technologies: Python, NumPy, REST API, OpenPyXl, Excel
+>		Technologies: Python, NumPy, REST API, OpenPyXl, Excel
 
-	**PrEP-it**
+>	**PrEP-it**
 
-		Web app for modeling PrEP impact and cost.
+>		Web app for modeling PrEP impact and cost.
 
-		URL: https://www.prepitweb.org/
+>		URL: https://www.prepitweb.org/
 
-		Role: Frontend Developer, Tech Lead
+>		Role: Frontend Developer, Tech Lead
 
-		Technologies: React, JavaScript, HTML, CSS, Material UI, AG Grid
+>		Technologies: React, JavaScript, HTML, CSS, Material UI, AG Grid
 		
-	**Impact40**
+>	**Impact40**
 
-		Web app for strategic planning for ending preventable maternal deaths, ending 
-		unmet need for family planning, and ending harmful practices. 
+>		Web app for strategic planning for ending preventable maternal deaths, ending unmet need for family planning, and ending harmful practices. 
 
-		URL: https://www.impact40.org/
+>		URL: https://www.impact40.org/
 
-		Role: Full-stack Developer, Tech Lead
+>		Role: Full-stack Developer, Tech Lead
 		
-		Technologies: React, JavaScript, HTML, CSS, Material UI, AG Grid, Object Pascal
+>		Technologies: React, JavaScript, HTML, CSS, Material UI, AG Grid, Object Pascal
 
-	**UCSR** 
+>	**UCSR** 
 
-		Web app for extracting costing data for interventions. I modernized the app by
-		moving it from jQuery to React.
+>		Web app for extracting costing data for interventions. I modernized the app by moving it from jQuery to React.
 
-		URL: https://ghcosting.org/pages/data/ucsr/app
+>		URL: https://ghcosting.org/pages/data/ucsr/app
 
-		Role: Frontend Developer
+>		Role: Frontend Developer
 		
-		Technologies: React, JavaScript, HTML, CSS, Material UI, AG Grid, jQuery
+>		Technologies: React, JavaScript, HTML, CSS, Material UI, AG Grid, jQuery
 
-	**H-LIST** 
+>	**H-LIST** 
 
-		Small web app for recommending how WASH interventions can save maternal and 
-		child lives.
+>		Small web app for recommending how WASH interventions can save maternal and child lives.
 
-		URL: http://humanitarianlist.org 
+>		URL: http://humanitarianlist.org 
 
-		Role: Full-stack Developer, Tech Lead
+>		Role: Full-stack Developer, Tech Lead
 		
-		Technologies: React, JavaScript, HTML, CSS, Material UI, Object Pascal
+>		Technologies: React, JavaScript, HTML, CSS, Material UI, Object Pascal
 
-	**RADAR Sample Size Calculator**
+>	**RADAR Sample Size Calculator**
 
-		The first React app I worked on.  A small, serverless web app for creating 
-		sample sizes for various interventions.
+>		The first React app I worked on.  A small, serverless web app for creating sample sizes for various interventions.
 
-		URL: http://www.radarsamplesizecalculator.org/
+>		URL: http://www.radarsamplesizecalculator.org/
 
-		Role: Frontend Developer, Tech Lead
+>		Role: Frontend Developer, Tech Lead
 		
-		Technologies: React, JavaScript, HTML, CSS, Material UI, AG Grid
+>		Technologies: React, JavaScript, HTML, CSS, Material UI, AG Grid
 
-	**OneHealth Tool/Spectrum**
+>	**OneHealth Tool/Spectrum**
 
-		My first project as a professional developer. A very large and complex desktop tool 
-		for modeling diseases and their associated costs. Developed many modules, tools, and 
-		features.
+>		My first project as a professional developer. A very large and complex desktop tool for modeling diseases and their associated costs. Developed many modules, tools, and features.
 
-		URL: https://avenirhealth.org/software-onehealth.html
+>		URL: https://avenirhealth.org/software-onehealth.html
 
-		Role: Developer
+>		Role: Developer
 		
-		Technologies: Object Pascal, TMS Software products, Excel (for modeling)
+>		Technologies: Object Pascal, TMS Software products, Excel (for modeling)
 
 ## Looking For
 
-	A software engineering role that allows me to make meaningful impact, continue learning, 
-	and work with a supportive team that values quality.
+> A software engineering role that allows me to make meaningful impact, continue learning, and work with a supportive team that values quality.
 
 ## Contact
 
-	mroman8465@gmail.com
+> mroman8465@gmail.com
