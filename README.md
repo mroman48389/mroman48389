@@ -10,19 +10,19 @@
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;My current stack includes:
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend:	
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- React, TypeScript, Tailwind CSS
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Redux, React Router, Framer Motion, shadcn 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ESLint, Jest, React Testing Library
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend:<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- React, TypeScript, Tailwind CSS<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Redux, React Router, Framer Motion, shadcn<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ESLint, Jest, React Testing Library<br>
 >						
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend:	
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- FastAPI, Python, RESTful API design
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- PostgreSQL, SQLAlchemy, Pandas, OpenAI
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ruff, Pytest
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- FastAPI, Python, RESTful API design<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- PostgreSQL, SQLAlchemy, Pandas, OpenAI<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ruff, Pytest<br>
 >	
-> &nbsp;&nbsp;&nbsp;&nbsp;* This stack was chosen to practice modern web development technologies valued
-> &nbsp;&nbsp;&nbsp;&nbsp;* in today's job market at a minimum cost. A mix of familiar and new 
-> &nbsp;&nbsp;&nbsp;&nbsp;* technologies both hone my existing skills and equip me with new ones.  
+> &nbsp;&nbsp;&nbsp;&nbsp;* This stack was chosen to practice modern web development technologies valued *<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;* in today's job market at a minimum cost. A mix of familiar and new *<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;* technologies both hone my existing skills and equip me with new ones. *<br> 
 	
 ## Past Projects, Personal
 
