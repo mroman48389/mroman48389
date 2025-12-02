@@ -6,23 +6,23 @@
 
 > **Tea Tapestry** 
 >
->    A full-stack web app that helps people learn about and explore the world of tea. 
+> &nbsp;&nbsp;&nbsp;&nbsp;A full-stack web app that helps people learn about and explore the world of tea. 
 >
->	 My current stack includes:
+> &nbsp;&nbsp;&nbsp;&nbsp;My current stack includes:
 >
->		 Frontend:	
->			 - React, TypeScript, Tailwind CSS
->			 - Redux, React Router, Framer Motion, shadcn 
->			 - ESLint, Jest, React Testing Library
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend:	
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- React, TypeScript, Tailwind CSS
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Redux, React Router, Framer Motion, shadcn 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ESLint, Jest, React Testing Library
 >						
->		 Backend:	
->			 - FastAPI, Python, RESTful API design
->			 - PostgreSQL, SQLAlchemy, Pandas, OpenAI
->			 - Ruff, Pytest
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend:	
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- FastAPI, Python, RESTful API design
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- PostgreSQL, SQLAlchemy, Pandas, OpenAI
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ruff, Pytest
 >	
->	  * This stack was chosen to practice modern web development technologies valued
->	  * in today's job market at a minimum cost. A mix of familiar and new 
->	  * technologies both hone my existing skills and equip me with new ones.  
+> &nbsp;&nbsp;&nbsp;&nbsp;* This stack was chosen to practice modern web development technologies valued
+> &nbsp;&nbsp;&nbsp;&nbsp;* in today's job market at a minimum cost. A mix of familiar and new 
+> &nbsp;&nbsp;&nbsp;&nbsp;* technologies both hone my existing skills and equip me with new ones.  
 	
 ## Past Projects, Personal
 
