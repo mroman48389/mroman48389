@@ -28,7 +28,7 @@
 
 > **[Portfolio Site](https://mark-roman-portfolio.netlify.app/)** 
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;A landing site from which my other projects can be accessed. Written in pure HTML and CSS and designed to be accessible and responsive.
+> A landing site from which my other projects can be accessed. Written in pure HTML and CSS and designed to be accessible and responsive.
 
 ## Past Projects, Professional (Dec 2008 - Mar 2025)
 
