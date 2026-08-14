@@ -12,7 +12,7 @@
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend:<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- React, TypeScript, Tailwind CSS<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Redux, React Router, Framer Motion, shadcn<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- React Query, Redux, React Router, Framer Motion, shadcn<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ESLint, Jest, React Testing Library<br>
 >						
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend:<br>
@@ -20,15 +20,15 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- PostgreSQL, SQLAlchemy, Pandas, OpenAI<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ruff, Pytest<br>
 >	
-> &nbsp;&nbsp;&nbsp;&nbsp;* This stack was chosen to practice modern web development technologies valued <br>
-> &nbsp;&nbsp;&nbsp;&nbsp;* in today's job market at a minimum cost. A mix of familiar and new <br>
-> &nbsp;&nbsp;&nbsp;&nbsp;* technologies both hone my existing skills and equip me with new ones. <br> 
+> &nbsp;&nbsp;&nbsp;&nbsp;* This stack was chosen to demonstrate modern web development technologies valued <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;  in today's job market at a minimum cost in addition to meeting the needs of its <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;  target audience. <br>
 	
 ## Past Projects, Personal
 
 > **[Portfolio Site](https://mark-roman-portfolio.netlify.app/)** 
 >
-> A landing site from which my other projects can be accessed. Written in pure HTML and CSS and designed to be accessible and responsive.
+> A landing site from which my other projects can be accessed. Written in pure HTML and CSS with a touch of JavaScript. Designed to be accessible and responsive.
 
 ## Past Projects, Professional (Dec 2008 - Mar 2025)
 
